@@ -6,7 +6,7 @@ The main use case for this image would be to use it in PHP projects where trusti
 
 Please note that this comes at a cost of images that can be more than twice the size of those built with highly optimized images like [apt-image](https://hub.docker.com/repository/docker/brezanac/apt-image).
 
-## Usage ##
+## Usage
 You can use the image as base for your own Dockerfile.
 
 ```
